@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhmjunior
-- 👀 I’m interested in information security and machine leraning
+- 👀 I’m interested in information security and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on GitHub, and learn more about coding
 - 😄 Pronouns: He
